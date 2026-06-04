@@ -1,0 +1,521 @@
+{
+  "version": "1.0.0",
+  "totalWords": 85,
+  "wordsWithVideos": 0,
+  "words": {
+    "hello": {
+      "index": 0,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/hello.mp4",
+      "imagePath": "assets/signs/words/hello.png"
+    },
+    "hi": {
+      "index": 1,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/hi.mp4",
+      "imagePath": "assets/signs/words/hi.png"
+    },
+    "goodbye": {
+      "index": 2,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/goodbye.mp4",
+      "imagePath": "assets/signs/words/goodbye.png"
+    },
+    "bye": {
+      "index": 3,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/bye.mp4",
+      "imagePath": "assets/signs/words/bye.png"
+    },
+    "thanks": {
+      "index": 4,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/thanks.mp4",
+      "imagePath": "assets/signs/words/thanks.png"
+    },
+    "thank": {
+      "index": 5,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/thank.mp4",
+      "imagePath": "assets/signs/words/thank.png"
+    },
+    "please": {
+      "index": 6,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/please.mp4",
+      "imagePath": "assets/signs/words/please.png"
+    },
+    "sorry": {
+      "index": 7,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sorry.mp4",
+      "imagePath": "assets/signs/words/sorry.png"
+    },
+    "yes": {
+      "index": 8,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/yes.mp4",
+      "imagePath": "assets/signs/words/yes.png"
+    },
+    "no": {
+      "index": 9,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/no.mp4",
+      "imagePath": "assets/signs/words/no.png"
+    },
+    "okay": {
+      "index": 10,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/okay.mp4",
+      "imagePath": "assets/signs/words/okay.png"
+    },
+    "welcome": {
+      "index": 11,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/welcome.mp4",
+      "imagePath": "assets/signs/words/welcome.png"
+    },
+    "good": {
+      "index": 12,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/good.mp4",
+      "imagePath": "assets/signs/words/good.png"
+    },
+    "bad": {
+      "index": 13,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/bad.mp4",
+      "imagePath": "assets/signs/words/bad.png"
+    },
+    "happy": {
+      "index": 14,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/happy.mp4",
+      "imagePath": "assets/signs/words/happy.png"
+    },
+    "sad": {
+      "index": 15,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sad.mp4",
+      "imagePath": "assets/signs/words/sad.png"
+    },
+    "angry": {
+      "index": 16,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/angry.mp4",
+      "imagePath": "assets/signs/words/angry.png"
+    },
+    "tired": {
+      "index": 17,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/tired.mp4",
+      "imagePath": "assets/signs/words/tired.png"
+    },
+    "sick": {
+      "index": 18,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sick.mp4",
+      "imagePath": "assets/signs/words/sick.png"
+    },
+    "fine": {
+      "index": 19,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/fine.mp4",
+      "imagePath": "assets/signs/words/fine.png"
+    },
+    "better": {
+      "index": 20,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/better.mp4",
+      "imagePath": "assets/signs/words/better.png"
+    },
+    "love": {
+      "index": 21,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/love.mp4",
+      "imagePath": "assets/signs/words/love.png"
+    },
+    "like": {
+      "index": 22,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/like.mp4",
+      "imagePath": "assets/signs/words/like.png"
+    },
+    "hate": {
+      "index": 23,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/hate.mp4",
+      "imagePath": "assets/signs/words/hate.png"
+    },
+    "help": {
+      "index": 24,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/help.mp4",
+      "imagePath": "assets/signs/words/help.png"
+    },
+    "eat": {
+      "index": 25,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/eat.mp4",
+      "imagePath": "assets/signs/words/eat.png"
+    },
+    "drink": {
+      "index": 26,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/drink.mp4",
+      "imagePath": "assets/signs/words/drink.png"
+    },
+    "go": {
+      "index": 27,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/go.mp4",
+      "imagePath": "assets/signs/words/go.png"
+    },
+    "come": {
+      "index": 28,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/come.mp4",
+      "imagePath": "assets/signs/words/come.png"
+    },
+    "want": {
+      "index": 29,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/want.mp4",
+      "imagePath": "assets/signs/words/want.png"
+    },
+    "need": {
+      "index": 30,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/need.mp4",
+      "imagePath": "assets/signs/words/need.png"
+    },
+    "have": {
+      "index": 31,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/have.mp4",
+      "imagePath": "assets/signs/words/have.png"
+    },
+    "see": {
+      "index": 32,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/see.mp4",
+      "imagePath": "assets/signs/words/see.png"
+    },
+    "hear": {
+      "index": 33,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/hear.mp4",
+      "imagePath": "assets/signs/words/hear.png"
+    },
+    "talk": {
+      "index": 34,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/talk.mp4",
+      "imagePath": "assets/signs/words/talk.png"
+    },
+    "walk": {
+      "index": 35,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/walk.mp4",
+      "imagePath": "assets/signs/words/walk.png"
+    },
+    "run": {
+      "index": 36,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/run.mp4",
+      "imagePath": "assets/signs/words/run.png"
+    },
+    "sit": {
+      "index": 37,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sit.mp4",
+      "imagePath": "assets/signs/words/sit.png"
+    },
+    "stand": {
+      "index": 38,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/stand.mp4",
+      "imagePath": "assets/signs/words/stand.png"
+    },
+    "sleep": {
+      "index": 39,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sleep.mp4",
+      "imagePath": "assets/signs/words/sleep.png"
+    },
+    "water": {
+      "index": 40,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/water.mp4",
+      "imagePath": "assets/signs/words/water.png"
+    },
+    "food": {
+      "index": 41,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/food.mp4",
+      "imagePath": "assets/signs/words/food.png"
+    },
+    "home": {
+      "index": 42,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/home.mp4",
+      "imagePath": "assets/signs/words/home.png"
+    },
+    "school": {
+      "index": 43,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/school.mp4",
+      "imagePath": "assets/signs/words/school.png"
+    },
+    "work": {
+      "index": 44,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/work.mp4",
+      "imagePath": "assets/signs/words/work.png"
+    },
+    "car": {
+      "index": 45,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/car.mp4",
+      "imagePath": "assets/signs/words/car.png"
+    },
+    "phone": {
+      "index": 46,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/phone.mp4",
+      "imagePath": "assets/signs/words/phone.png"
+    },
+    "book": {
+      "index": 47,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/book.mp4",
+      "imagePath": "assets/signs/words/book.png"
+    },
+    "door": {
+      "index": 48,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/door.mp4",
+      "imagePath": "assets/signs/words/door.png"
+    },
+    "window": {
+      "index": 49,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/window.mp4",
+      "imagePath": "assets/signs/words/window.png"
+    },
+    "table": {
+      "index": 50,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/table.mp4",
+      "imagePath": "assets/signs/words/table.png"
+    },
+    "chair": {
+      "index": 51,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/chair.mp4",
+      "imagePath": "assets/signs/words/chair.png"
+    },
+    "family": {
+      "index": 52,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/family.mp4",
+      "imagePath": "assets/signs/words/family.png"
+    },
+    "friend": {
+      "index": 53,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/friend.mp4",
+      "imagePath": "assets/signs/words/friend.png"
+    },
+    "mother": {
+      "index": 54,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/mother.mp4",
+      "imagePath": "assets/signs/words/mother.png"
+    },
+    "father": {
+      "index": 55,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/father.mp4",
+      "imagePath": "assets/signs/words/father.png"
+    },
+    "brother": {
+      "index": 56,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/brother.mp4",
+      "imagePath": "assets/signs/words/brother.png"
+    },
+    "sister": {
+      "index": 57,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/sister.mp4",
+      "imagePath": "assets/signs/words/sister.png"
+    },
+    "child": {
+      "index": 58,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/child.mp4",
+      "imagePath": "assets/signs/words/child.png"
+    },
+    "baby": {
+      "index": 59,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/baby.mp4",
+      "imagePath": "assets/signs/words/baby.png"
+    },
+    "man": {
+      "index": 60,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/man.mp4",
+      "imagePath": "assets/signs/words/man.png"
+    },
+    "woman": {
+      "index": 61,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/woman.mp4",
+      "imagePath": "assets/signs/words/woman.png"
+    },
+    "people": {
+      "index": 62,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/people.mp4",
+      "imagePath": "assets/signs/words/people.png"
+    },
+    "morning": {
+      "index": 63,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/morning.mp4",
+      "imagePath": "assets/signs/words/morning.png"
+    },
+    "afternoon": {
+      "index": 64,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/afternoon.mp4",
+      "imagePath": "assets/signs/words/afternoon.png"
+    },
+    "evening": {
+      "index": 65,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/evening.mp4",
+      "imagePath": "assets/signs/words/evening.png"
+    },
+    "night": {
+      "index": 66,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/night.mp4",
+      "imagePath": "assets/signs/words/night.png"
+    },
+    "day": {
+      "index": 67,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/day.mp4",
+      "imagePath": "assets/signs/words/day.png"
+    },
+    "time": {
+      "index": 68,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/time.mp4",
+      "imagePath": "assets/signs/words/time.png"
+    },
+    "today": {
+      "index": 69,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/today.mp4",
+      "imagePath": "assets/signs/words/today.png"
+    },
+    "tomorrow": {
+      "index": 70,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/tomorrow.mp4",
+      "imagePath": "assets/signs/words/tomorrow.png"
+    },
+    "yesterday": {
+      "index": 71,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/yesterday.mp4",
+      "imagePath": "assets/signs/words/yesterday.png"
+    },
+    "now": {
+      "index": 72,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/now.mp4",
+      "imagePath": "assets/signs/words/now.png"
+    },
+    "later": {
+      "index": 73,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/later.mp4",
+      "imagePath": "assets/signs/words/later.png"
+    },
+    "name": {
+      "index": 74,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/name.mp4",
+      "imagePath": "assets/signs/words/name.png"
+    },
+    "meet": {
+      "index": 75,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/meet.mp4",
+      "imagePath": "assets/signs/words/meet.png"
+    },
+    "nice": {
+      "index": 76,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/nice.mp4",
+      "imagePath": "assets/signs/words/nice.png"
+    },
+    "know": {
+      "index": 77,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/know.mp4",
+      "imagePath": "assets/signs/words/know.png"
+    },
+    "think": {
+      "index": 78,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/think.mp4",
+      "imagePath": "assets/signs/words/think.png"
+    },
+    "understand": {
+      "index": 79,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/understand.mp4",
+      "imagePath": "assets/signs/words/understand.png"
+    },
+    "learn": {
+      "index": 80,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/learn.mp4",
+      "imagePath": "assets/signs/words/learn.png"
+    },
+    "teach": {
+      "index": 81,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/teach.mp4",
+      "imagePath": "assets/signs/words/teach.png"
+    },
+    "study": {
+      "index": 82,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/study.mp4",
+      "imagePath": "assets/signs/words/study.png"
+    },
+    "read": {
+      "index": 83,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/read.mp4",
+      "imagePath": "assets/signs/words/read.png"
+    },
+    "write": {
+      "index": 84,
+      "hasVideo": false,
+      "videoPath": "assets/signs/words/write.mp4",
+      "imagePath": "assets/signs/words/write.png"
+    }
+  },
+  "metadata": {
+    "source": "WLASL (Word-Level American Sign Language)",
+    "generatedBy": "generate_vocabulary_config.py"
+  }
+}

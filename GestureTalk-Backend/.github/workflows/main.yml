@@ -1,0 +1,15 @@
+name: Notify Main Project
+
+on: push
+
+jobs:
+  notify-main-project:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.PAT }}
+        repository: AliAljawad/SignSpeak
+        event-type: update-submodules-event

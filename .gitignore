@@ -1,0 +1,77 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+*.iml
+
+# Secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Flutter (GestureTalk-Front)
+GestureTalk-Front/.dart_tool/
+GestureTalk-Front/.flutter-plugins
+GestureTalk-Front/.flutter-plugins-dependencies
+GestureTalk-Front/.pub-cache/
+GestureTalk-Front/.pub/
+GestureTalk-Front/build/
+GestureTalk-Front/**/doc/api/
+
+# Laravel / PHP (GestureTalk-Backend)
+GestureTalk-Backend/vendor/
+GestureTalk-Backend/node_modules/
+GestureTalk-Backend/public/build/
+GestureTalk-Backend/public/hot/
+GestureTalk-Backend/public/storage/
+GestureTalk-Backend/storage/*.key
+GestureTalk-Backend/.phpunit.cache
+GestureTalk-Backend/.phpunit.result.cache
+
+# Python ML (SignDetectionModel) — too large for GitHub; keep locally or use cloud/LFS
+# Training videos (~5 GB)
+GestureTalk-Backend/SignDetectionModel/wordset/videos/
+
+# Letter/word training images and derived datasets
+GestureTalk-Backend/SignDetectionModel/data/
+GestureTalk-Backend/SignDetectionModel/data_word/
+
+# Model weights and serialized training artifacts
+GestureTalk-Backend/SignDetectionModel/**/*.pth
+GestureTalk-Backend/SignDetectionModel/**/*.pkl
+GestureTalk-Backend/SignDetectionModel/**/*.pt
+GestureTalk-Backend/SignDetectionModel/**/*.onnx
+GestureTalk-Backend/SignDetectionModel/**/*.pickle
+GestureTalk-Backend/SignDetectionModel/mlp_model.p
+GestureTalk-Backend/SignDetectionModel/data.pickle
+GestureTalk-Backend/SignDetectionModel/data_word.pickle
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.venv/
+**/venv/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# ML experiment caches
+**/.cache/
+**/runs/
+**/wandb/
+**/.ipynb_checkpoints/
+
+# Logs and caches
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
